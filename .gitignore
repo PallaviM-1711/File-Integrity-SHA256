@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+reference_hash.json
+app_backup.py
+file_integrity_backup.py
